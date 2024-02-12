@@ -3,6 +3,7 @@
 
 This is keras+tensorflow implimentation. Check out pytorch [implimentation](https://github.com/ssfootball04/pose-transfer) by ssfootball04.
 
+![Screenshot](sup-mat/teaser.jpg)
 
 ### Requirment
 * python2
