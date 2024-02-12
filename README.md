@@ -61,22 +61,3 @@ Both training and testing require large amount of disk space, because ```compute
 Check sup-mat for additional data from paper: RE-ID experiment, user study images, names of the images from paper.
 
 For deep-fashion there are 2 splits: old and new. Images from Fig. 5, 11, 13 is from the old split. Image in other figures, is from the new one. Scores in the tables is from new split. You can find both splits in https://yadi.sk/d/suymftBy3S7oKD . And checkpoints for both splits in https://yadi.sk/d/dxVvYxBw3QuUT9.
-
-Citation:
-
-```
-@InProceedings{Siarohin_2018_CVPR,
-author = {Siarohin, Aliaksandr and Sangineto, Enver and Lathuilière, Stéphane and Sebe, Nicu},
-title = {Deformable GANs for Pose-Based Human Image Generation},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2018}
-}
-
-@ARTICLE{Siarohin_2019_PAMI,
-author={Siarohin, Aliaksandr and Lathuilière, Stéphane  and Sangineto, Enver and Sebe, Nicu},
-journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-title={Appearance and Pose-Conditioned Human Image Generation using Deformable GANs},
-year={2019}
-} 
-```
